@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arkanoid/static/css/main.65914c18.css",
+    "main.js": "/Arkanoid/static/js/main.87f4ff9e.js",
+    "static/js/787.b2d22bcd.chunk.js": "/Arkanoid/static/js/787.b2d22bcd.chunk.js",
+    "index.html": "/Arkanoid/index.html",
+    "main.65914c18.css.map": "/Arkanoid/static/css/main.65914c18.css.map",
+    "main.87f4ff9e.js.map": "/Arkanoid/static/js/main.87f4ff9e.js.map",
+    "787.b2d22bcd.chunk.js.map": "/Arkanoid/static/js/787.b2d22bcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65914c18.css",
+    "static/js/main.87f4ff9e.js"
+  ]
+}
